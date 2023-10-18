@@ -1,0 +1,49 @@
+/* .CustomerLogin {
+padding: 60px 300px;
+background-color: #f7f7f7;
+WIDTH: 1px;
+white-space: nowrap;
+margin-left: 100px;
+margin-bottom: 130px!important;  
+margin-top: 130px;
+box-sizing: border-box;
+display: flex;
+flex-direction: column-reverse;
+flex-wrap: wrap;
+align-content: flex-end;
+text-align: center;
+
+}
+
+
+.username{
+    width: 201px;
+    font-size: 14px;
+    display: block;
+    width: 100%;
+    padding: 9.5px 0;
+    transition: all .3s ease-in-out;
+    color: #333;
+    border: 1px solid transparent;
+    border-bottom: 2px solid #ccc;
+    background: transparent;
+}
+.row1{
+    height: 21rem;
+    width: 139px;
+    padding-left: 6rem;
+    color: #000;
+   
+}
+.CustomerLogin h1{
+    font-family: var(--ff-body);
+    font-weight: 400;
+    line-height: 1;
+    color: #000;
+    margin-bottom: 20px;
+    font-size: 2rem;
+}
+.resetlink{
+text-decoration: none;
+color: #000;
+} */

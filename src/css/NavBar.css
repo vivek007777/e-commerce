@@ -1,0 +1,41 @@
+.navbar {
+  height: 70px;
+  background-color: white;
+}
+.navbar ul {
+    display: flex !important;
+    flex-direction: row !important;
+    gap: 5rem !important;
+    margin-right: 83px;
+    color: black;
+}
+.icon{
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
+  margin-left: 207px;
+  color:rgb(61, 63, 59);
+  font-size: x-large;
+}
+.navbar li a{
+  color:black !important;
+  font-size:larger;
+  text-decoration: none;
+}
+.navbar h4 img{
+  height: 24px;
+  width: 178px;
+}
+
+
+
+
+  
+
+  
+  
+  
+ 
+  
+
+  
